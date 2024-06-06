@@ -36,15 +36,14 @@
     <img src="https://skillicons.dev/icons?i=python,java,html,css,javascript,react,nodejs,mongodb,express,flask,django,vscode,github,git" /><br>
 </div>
 
-
+<h2 align="center">📊 GitHub Contributions and Activity 📊</h2>
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
+  <h3>🐍 My Contributions 🐍</h3>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/vcr11/vcr11/output/github-contribution-grid-snake.svg" />
-  <br/><br/><br/>
+  <br/><br/>
+  <h3>💻 GitHub Activity 💻</h3>
+  <br/>
 </div>
-
-[![Chandra's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=vcr11&theme=xcode)](https://github.com/vcr11)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vcr11&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="vcr11" />
