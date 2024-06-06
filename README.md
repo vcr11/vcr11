@@ -9,7 +9,7 @@
 
 ### About Me:
 
-- 🎓 I’m pursuing a **master's in Computer Science** at the University of Central Florida
+- 🎓 I’m pursuing my **master's in Computer Science** at the University of Central Florida
 - 🌱 I’m currently learning **React.js, and Node.js**
 - 🖥️ I’m focusing on **Data Structures and Algorithms and working on NeetCode 150**
 - 💻 I’m working on **full-stack development with the MERN stack**
