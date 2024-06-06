@@ -1,0 +1,40 @@
+name: Generate Snake
+
+# Controls when the action will run.
+on:
+  schedule:
+    # Run at 12 AM and 12 PM UTC
+    - cron: "0 0,12 * * *"
+
+  # Allows the workflow to be run manually from the Actions tab
+  workflow_dispatch:
+
+  # Also run on every push to the main branch
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout the repository
+        uses: actions/checkout@v3
+
+      - name: Generate Snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: vcr11
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Upload the generated snake file
+        uses: actions/upload-artifact@v2
+        with:
+          name: snake-artifact
+          path: dist
