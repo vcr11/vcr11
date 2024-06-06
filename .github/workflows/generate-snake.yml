@@ -1,15 +1,10 @@
 name: Generate Snake
 
-# Controls when the action will run.
 on:
   schedule:
-    # Run at 12 AM and 12 PM UTC
+    # Runs at 12am and 12pm UTC every day
     - cron: "0 0,12 * * *"
-
-  # Allows the workflow to be run manually from the Actions tab
   workflow_dispatch:
-
-  # Also run on every push to the main branch
   push:
     branches:
       - main
@@ -17,7 +12,6 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout the repository
         uses: actions/checkout@v3
@@ -33,8 +27,15 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Upload the generated snake file
-        uses: actions/upload-artifact@v2
+      - name: Create output directory
+        run: mkdir -p dist
+
+      - name: Move generated snake files to output directory
+        run: mv dist/* .
+
+      - name: Push the generated files to the output branch
+        uses: peaceiris/actions-gh-pages@v3
         with:
-          name: snake-artifact
-          path: dist
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: output
