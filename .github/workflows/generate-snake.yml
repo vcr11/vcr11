@@ -2,7 +2,7 @@ name: Generate Snake
 
 on:
   schedule:
-    # Runs at 12am and 12pm UTC every day
+    # Run at 12 AM and 12 PM UTC
     - cron: "0 0,12 * * *"
   workflow_dispatch:
   push:
@@ -26,12 +26,6 @@ jobs:
             dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Create output directory
-        run: mkdir -p dist
-
-      - name: Move generated snake files to output directory
-        run: mv dist/* .
 
       - name: Push the generated files to the output branch
         uses: peaceiris/actions-gh-pages@v3
