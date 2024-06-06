@@ -6,9 +6,10 @@
 
 <h3 align="center" style="color: red;"> 🔭 I'm looking for Spring or Summer 2025 Software Intern roles</h3>
 
+
 ### About Me:
 
-- 🎓 I’m pursuing a **master's in Computer Science** at the University of Central Florida
+- 🎓 I’m pursuing my **master's in Computer Science** at the University of Central Florida
 - 🌱 I’m currently learning **React.js, and Node.js**
 - 🖥️ I’m focusing on **Data Structures and Algorithms and working on NeetCode 150**
 - 💻 I’m working on **full-stack development with the MERN stack**
@@ -51,9 +52,6 @@
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=vcr11&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
-<h2 align="center">💡 LeetCode Stats Card 💡</h2>
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/vcr11?theme=unicorn&extension=activity" alt="LeetCode Stats" />
-    <img src="https://leetcard.jacoblin.cool/vcr11?theme=dark&font=Baloo&ext=contest" />
-  <br/>
-</div>
+<br/><br/>
+
+<hr/>
