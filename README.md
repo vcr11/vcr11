@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ChandraShekarReddyVangala.ChandraShekarReddyVangala" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=vcr11.vcr11" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Chandra+Shekar+Reddy+Vangala!;" />
@@ -10,7 +10,7 @@
 <br/>
 
 <div align="center">
-    <img src="/Users/chandrashekar/Downloads/UCF-symbol.jpg" width="100"/>
+    <img src="https://raw.githubusercontent.com/vcr11/vcr11/main/ucf-logo.png" width="100"/>
 </div>
 
 <br/>
@@ -61,7 +61,6 @@ Languages I know: Python, Java, HTML, CSS, JavaScript, React.js, Node.js, MongoD
   <p>Count of contributions: 1 to 10</p>
   <br/><br/><br/>
 </div>
-
 
 <hr/>
 
