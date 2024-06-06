@@ -1,16 +1,16 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=vcr11&label=Profile%20views&color=0e75b6&style=flat" alt="vcr11" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Chandra+Shekar+Reddy+Vangala!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Chandra+Shekar;" />
 </h1>
 
-<h3 align="center">A passionate Software Developer</h3>
+<h3 align="center" style="color: red;"> 🔭 I'm looking for Spring or Summer 2025 Software Intern roles</h3>
+
 
 ### About Me:
 
-- 🔭 I’m currently looking for a **Spring or Summer 2025 SDE internship role**
-- 🎓 I’m doing my **master's in Computer Science**
-- 🌱 I’m currently learning **Data Structures and Algorithms (DSA), React.js, and Node.js**
+- 🎓 I’m pursuing a **master's in Computer Science** at the University of Central Florida
+- 🌱 I’m currently learning **React.js, and Node.js**
 - 🖥️ I’m focusing on **Data Structures and Algorithms and working on NeetCode 150**
 - 💻 I’m working on **full-stack development with the MERN stack**
 - 👨‍💻 I have **14 months of software development experience at Nagarro**
@@ -40,21 +40,19 @@
 <div align="center">
   <h3>🐍 My Contributions 🐍</h3>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/vcr11/vcr11/output/github-contribution-grid-snake.svg" />
-  <br/><br/>
-  <h3>💻 GitHub Activity 💻</h3>
   <br/>
 </div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vcr11&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="vcr11" />
-</p>
+<h2 align="center">⚡ GitHub Activity ⚡</h2>
+<br>
+<div align="center">
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=vcr11&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=vcr11&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=vcr11&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vcr11&show_icons=true&locale=en&theme=tokyonight" alt="vcr11" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vcr11&theme=tokyonight" alt="vcr11" />
-</p>
+<br/><br/>
 
 <hr/>
+
