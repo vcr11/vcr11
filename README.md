@@ -11,17 +11,18 @@
 
 - 🎓 Pursuing a **Master's in Computer Science** at the University of Central Florida, with a GPA of 3.92/4.0, expected to graduate in December 2025.
 
-- 🌱 Enhancing skills in **React.js and Node.js**, focusing on scalable web applications.
+- 🌱 Currently enhancing my skills in **React.js and Node.js**, focusing on building scalable and efficient web applications.
 
-- 🖥️ Mastering **Data Structures and Algorithms** with the **NeetCode 150** problem set.
+- 🖥️ Dedicated to mastering **Data Structures and Algorithms**, actively working on the **NeetCode 150** problem set to sharpen my problem-solving abilities.
 
-- 💻 Passionate about **full-stack development with the MERN stack**.
+- 💻 Passionate about **full-stack development with the MERN stack**, creating dynamic end-to-end web solutions.
 
-- 👨‍💻 **14 months of software development experience** at Nagarro, including a successful Angular-to-React migration, and a **Python automation and data migration internship** at RQB Technologies.
+- 👨‍💻 **14 months of software development experience** at Nagarro, including a successful Angular-to-React migration, and a **software engineering internship** at RQB Technologies focused on **Python automation and data migration**.
 
-- 📚 Solved over **800 DSA problems** on [LeetCode](https://leetcode.com/u/vcr11/) and [GeeksforGeeks](https://www.geeksforgeeks.org/user/vcr11/).
+- 📚 Solved over **800 DSA problems** on platforms like [LeetCode](https://leetcode.com/u/vcr11/) and [GeeksforGeeks](https://www.geeksforgeeks.org/user/vcr11/), showcasing strong expertise in core computer science concepts.
 
 <br/>
+
 
 
 
