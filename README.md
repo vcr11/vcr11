@@ -7,14 +7,16 @@
 <h3 align="center" style="color: red;"> 🔭 I'm looking for Spring or Summer 2025 Software Intern roles</h3>
 
 
-### About Me:
-
-- 🎓 I’m pursuing my **master's in Computer Science** at the University of Central Florida
-- 🌱 I’m currently learning **React.js, and Node.js**
-- 🖥️ I’m focusing on **Data Structures and Algorithms and working on NeetCode 150**
-- 💻 I’m working on **full-stack development with the MERN stack**
-- 👨‍💻 I have **14 months of software development experience at Nagarro**
-- 📚 I have solved over **800 DSA problems** on platforms like [LeetCode](https://leetcode.com/u/vcr11/) and [GeeksforGeeks](https://www.geeksforgeeks.org/user/vcr11/)
+About Me:
+🎓 Pursuing a Master's in Computer Science at the University of Central Florida, with a GPA of 3.92/4.0, expected to graduate in December 2025.
+🌱 Currently enhancing my skills in React.js and Node.js, focusing on building scalable and efficient web applications.
+🖥️ Dedicated to mastering Data Structures and Algorithms, actively working on the NeetCode 150 problem set to sharpen my problem-solving abilities.
+💻 Passionate about full-stack development with the MERN stack, creating dynamic end-to-end web solutions.
+👨‍💻 14 months of software development experience at Nagarro, where I led a successful migration from Angular to React, improving load times by 20% and boosting user engagement by 15%. Additionally, completed a software engineering internship at RQB Technologies, focusing on Python automation and data migration.
+📚 Solved over 800 DSA problems on platforms like LeetCode and GeeksforGeeks, showcasing strong expertise in core computer science concepts.
+🚀 Actively involved in open-source contributions and coding competitions, winning first prize among 500 participants, further honing my coding and algorithmic skills.
+🛠️ Proficient in Python, Java, C, HTML/CSS, JavaScript, SQL, and Node.js, with practical experience in frameworks like Flask, Django, React, and Express.js.
+🎯 Aiming to grow as a full-stack developer and software engineer, using my skills in data structures, algorithms, and full-stack development to tackle real-world challenges.
 
 <br/>
 
