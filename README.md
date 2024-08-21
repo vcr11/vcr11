@@ -17,11 +17,12 @@
 
 - 💻 Passionate about **full-stack development with the MERN stack**, creating dynamic end-to-end web solutions.
 
-- 👨‍💻 **14 months of software development experience** at Nagarro, where I led a successful migration from Angular to React, improving load times by 20% and boosting user engagement by 15%. Additionally, completed a **software engineering internship** at RQB Technologies, focusing on **Python automation and data migration**.
+- 👨‍💻 **14 months of software development experience** at Nagarro, including a successful Angular-to-React migration, and a **software engineering internship** at RQB Technologies focused on **Python automation and data migration**.
 
 - 📚 Solved over **800 DSA problems** on platforms like [LeetCode](https://leetcode.com/u/vcr11/) and [GeeksforGeeks](https://www.geeksforgeeks.org/user/vcr11/), showcasing strong expertise in core computer science concepts.
 
 <br/>
+
 
 <div align="center"> 
   <a href="mailto:ch319362@ucf.edu">
