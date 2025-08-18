@@ -38,9 +38,9 @@
 
 ## 🧰 Tech Toolbox
 
-### **Languages & Databases**
+### Languages & Databases  
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,c,sql,mysql,mongodb&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,c,mysql,mongodb&perline=6" />
 </div>
 
 ### **Frameworks**
