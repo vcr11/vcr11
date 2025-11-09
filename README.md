@@ -68,10 +68,13 @@
 📂 [`GitHub Repo`](https://github.com/vcr11/TechNovaDigest)  
 > **React | FastAPI | Supabase | Tailwind | OpenAI GPT-4**
 
-- 🧩 Built a **modern newsletter system** with AI content generation, analytics, and real-time dashboards  
-- ⚡ Scaled to **10,000+ subscribers** with automated distribution and **AI-powered content summarization**  
-- 🤖 Integrated GPT-powered **article assistant** for SEO optimization and readability improvement  
-- 🚀 Achieved **99.9% uptime**, **60% faster content creation**, and **80% cost reduction** vs traditional CMS tools  
+🧩 Built a modern newsletter management system with AI-assisted content generation, analytics dashboard, and responsive admin interface.
+
+⚡ Designed scalable React–FastAPI–Supabase architecture supporting automated email workflows and real-time content insights.
+
+🤖 Integrated GPT-powered article assistant for content summarization, SEO enhancement, and readability improvements.
+
+🚀 Optimized backend APIs and UI performance, improving content creation efficiency by 60% and reducing manual editing effort by 70%. 
 
 ---
 
