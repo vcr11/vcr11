@@ -29,14 +29,14 @@
 
 
 ---
-
-## 📌 Snapshot
-- 🎓 **Master’s in Computer Science (GPA 3.97/4.0)** — University of Central Florida, graduating Dec 2025.  
-- 💼 **Amazon SDE Intern (2025)** — Built debugging tools and serverless AWS APIs; achieved **95% reliability** and **100% stability**.  
-- 💻 **Software Engineer @ Nagarro (14 months)** — Led React migration; developed telematics features processing **10k+ events/min**.  
-- 🛠️ **Intern @ RQB Technologies** — Designed Python-based SIM authentication and APIs; reduced manual checks by **40%**.  
-- 📈 **Problem-Solving** — Solved **1000+ coding challenges**; ranked **Top 1%** on HackerRank.  
-- 🎯 **Certifications** — Microsoft **Azure Developer Associate**; Coursera **Python for Everybody (Univ. of Michigan)**.  
+### 🧠 Snapshot
+- 🎓 **M.S. Computer Science**, University of Central Florida (GPA 3.97/4.0) — Graduating Dec 2025  
+- 💼 **Amazon SDE Intern (2025)** — Serverless AWS APIs and debugging tools (95% reliability, 100% CI/CD stability)  
+- 🏗️ **Nagarro SWE (14 mo)** — Java + Spring Boot microservices handling 10K events/min  
+- 🔐 **RQB Technologies Intern** — Python + SIM/IP authentication (40% manual check reduction)  
+- 🧩 **Key Projects:** AetherFlow (LLM Agent Infra) • FinTrack AI • Virtual Try-On Room  
+- 🧠 **Problem Solving:** 1000+ coding challenges • Top 1% HackerRank SQL & Python  
+- 🏅 **Certifications:** Azure Developer Associate • Stanford ML • UMich Python  
 
 ---
 
